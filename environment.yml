@@ -1,0 +1,16 @@
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - jupytext
+  - jupyterlab
+  - jupyter-offlinenotebook
+  - jupyter-resource-usage
+  - jupyterhub-singleuser
+  - python
+  - numpy
+  - matplotlib
+  - ipympl
+  - ipywidgets
+  - notebook
+  - nteract_on_jupyter
